@@ -118,7 +118,7 @@ document.querySelector("#app").innerHTML = `
     </svg>
   </button>
   <audio id="audio-player" autoplay loop preload="auto">
-    <source src="/kurmangazy-nurai-wedding/music.mp3" type="audio/mpeg" />
+    <source src="music.mp3" type="audio/mpeg" />
   </audio>
 
   <div class="success-modal" id="success-modal">
