@@ -47,7 +47,8 @@ document.querySelector("#app").innerHTML = `
       <div class="date-day">01</div>
       <div class="date-month">Қазан</div>
       <div class="date-year">2026 жыл</div>
-      <div class="date-time">Сағат 18:00-де басталады · Беташар</div>
+      <div class="date-time">Сағат 18:00-де Беташар </div>
+      <div class="date-time">Сағат 19:00-де Той </div>
     </div>
   </section>
 
