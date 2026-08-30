@@ -50,6 +50,10 @@ document.querySelector("#app").innerHTML = `
     </div>
   </section>
 
+  <section class="date-image reveal">
+    <img src="image2.webp" alt="">
+  </section>
+
   <section id="countdown" class="reveal">
     <p class="section-label">Той салтанатына дейін</p>
     <div class="countdown" id="countdown">
