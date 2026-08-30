@@ -166,7 +166,7 @@ section {
   color: var(--cream);
   padding: 2rem 1.5rem;
 
-  transform: translateY(50px);
+  transform: translateY(150px);
 
   animation: fadeUp 1.4s ease both;
 }
