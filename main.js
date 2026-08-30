@@ -4,8 +4,7 @@ const WEDDING_DATE = new Date("2026-10-01T18:00:00+05:00").getTime();
 
 const GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbywlsdFrPZY6gu29wu9dWUzwDm_7oL4v0EI64vjn5G9tCB4_WXOz08NPaT8b39G22Ai/exec";
 
-const heroImg =
-  "image.png";
+const heroImg = "image.png";
 
 const ornament = `<svg class="divider-orn" viewBox="0 0 24 24"><path d="M12 2l2.4 6.6L21 11l-6.6 2.4L12 20l-2.4-6.6L3 11l6.6-2.4z"/></svg>`;
 
