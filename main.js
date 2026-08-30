@@ -78,6 +78,10 @@ document.querySelector("#app").innerHTML = `
     </a>
   </section>
 
+  <section class="venue-image reveal">
+    <img src="image3.webp" alt="">
+  </section>
+
   <section id="rsvp" class="reveal">
     <p class="section-label">Сауалнама</p>
     <h2 class="section-title">Тойға қатысуыңызды растауыңызды сұраймыз</h2>
