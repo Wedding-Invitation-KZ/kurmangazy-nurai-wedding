@@ -358,6 +358,22 @@ section {
   color: var(--ink);
 }
 
+/* ---------- Image ---------- */
+.date-image {
+  width: 100%;
+  margin: 2rem 0 3rem;
+  padding: 0 1.2rem;
+  box-sizing: border-box;
+}
+
+.date-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  object-fit: cover;
+}
+
 /* ---------- Countdown ---------- */
 .countdown {
   display: grid;
